@@ -1,4 +1,4 @@
-{{cookiecutter.project_name}}
+Apziva - Happy Customers
 ==============================
 
 Run project using "python src/models/train_model.py"
